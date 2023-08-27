@@ -49,7 +49,7 @@
 
 <header>
   <h1>Abinash Nayak - Portfolio Projects </h1>
-  <img src="https://drive.google.com/file/d/1WRHqWD6JEyY_iH4QY17C1lIPzO2U8qnC/view?usp=drive_link" alt="Profile Banner">
+  <img src="/Images/avatar_face" alt="Profile Banner">
 </header>
 
 <div class="container">
