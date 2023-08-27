@@ -6,13 +6,13 @@
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f9f9f9;
   }
   header {
-    background-color: #333;
-    color: #fff;
+    background-color: #262626;
+    color: #ffffff;
     text-align: center;
-    padding: 1em;
+    padding: 2em;
   }
   .container {
     max-width: 800px;
@@ -20,36 +20,37 @@
     padding: 2em;
   }
   .project {
-    background-color: #fff;
+    background-color: #ffffff;
     border-radius: 5px;
-    padding: 1em;
-    margin: 1.5em 0;
+    padding: 2em;
+    margin: 2em 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   .project img {
     max-width: 100%;
     border-radius: 5px;
+    margin-top: 1em;
   }
   .project-description {
     margin-top: 1em;
   }
   .technologies {
-    margin-top: 1em;
+    margin-top: 2em;
   }
   .contact {
     text-align: center;
-    margin-top: 2em;
-    padding: 2em;
-    background-color: #333;
-    color: #fff;
+    margin-top: 4em;
+    padding: 4em 0;
+    background-color: #262626;
+    color: #ffffff;
   }
 </style>
 </head>
 <body>
 
 <header>
-  <h1>Abinash Nayak - Portfolio Projects </h1>
-  <img src="/Images/avatar_face" alt="Profile Banner">
+  <h1>Abinash Nayak - Portfolio Projects</h1>
+  <img src="/Images/avatar_face.jpg" alt="Profile Banner">
 </header>
 
 <div class="container">
@@ -58,7 +59,7 @@
     <h2>Project 1: E-commerce Platform with Django</h2>
     <img src="link-to-project-1-screenshot" alt="Project 1 Screenshot">
     <div class="project-description">
-      <p>Designed and developed a robust e-commerce platform using Django. Implemented user authentication, product catalog, shopping cart, and secure payment gateways.</p>
+      <p>A meticulously crafted e-commerce platform built using Django. Featuring user authentication, product catalog, shopping cart, and secure payment gateways.</p>
       <a href="link-to-project-1-repo">Repository</a>
     </div>
   </section>
@@ -67,7 +68,7 @@
     <h2>Project 2: Sentiment Analysis with LSTM</h2>
     <img src="link-to-project-2-banner" alt="Project 2 Banner">
     <div class="project-description">
-      <p>Utilized LSTM neural networks for sentiment analysis on text data. Trained and evaluated models using TensorFlow, Keras, and preprocessed datasets.</p>
+      <p>Harnessing the power of LSTM neural networks for sentiment analysis on textual data. Models trained and evaluated with TensorFlow, Keras, and meticulously preprocessed datasets.</p>
       <a href="link-to-project-2-repo">Repository</a>
     </div>
   </section>
@@ -76,7 +77,7 @@
     <h2>Project 3: Interactive Data Visualization Dashboard</h2>
     <img src="link-to-project-3-preview" alt="Project 3 Preview">
     <div class="project-description">
-      <p>Engineered an interactive data visualization dashboard using Flask, Plotly, and Dash. Integrated dynamic visualizations to explore and analyze complex datasets.</p>
+      <p>Architected an interactive data visualization dashboard employing Flask, Plotly, and Dash. Empowering insightful exploration and analysis of intricate datasets.</p>
       <a href="link-to-project-3-repo">Repository</a>
     </div>
   </section>
@@ -86,7 +87,7 @@
 </div>
 
 <div class="container technologies">
-  <h2>Technologies Used</h2>
+  <h2>Technologies Utilized</h2>
   <ul>
     <li>Python</li>
     <li>Django</li>
@@ -104,14 +105,14 @@
 </div>
 
 <div class="container contact">
-  <h2>Contact</h2>
-  <p>Feel free to connect with me:</p>
+  <h2>Contact Me</h2>
+  <p>Your feedback and collaborations are welcome:</p>
   <ul>
     <li>Email: your.email@example.com</li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/abinashnayak">Abinash Nayak</a></li>
     <li>Portfolio: <a href="https://www.yourportfolio.com">https://www.yourportfolio.com</a></li>
   </ul>
-  <p>Let's collaborate and innovate on exciting projects together!</p>
+  <p>Let's unite to create remarkable solutions!</p>
 </div>
 
 </body>
