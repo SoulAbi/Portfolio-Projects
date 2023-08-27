@@ -108,8 +108,8 @@
   <h2>Contact Me</h2>
   <p>Your feedback and collaborations are welcome:</p>
   <ul>
-    <li>Email: your.email@example.com</li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/abinashnayak">Abinash Nayak</a></li>
+    <li>Email: nayakabinash2000@gmail.com</li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/abinash-nayak-9b69a6196/">Abinash Nayak</a></li>
     <li>Portfolio: <a href="https://www.yourportfolio.com">https://www.yourportfolio.com</a></li>
   </ul>
   <p>Let's unite to create remarkable solutions!</p>
